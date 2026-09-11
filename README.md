@@ -1,2 +1,5 @@
-# CSCI-271-Fall-2026
-This repository documents my learning and progress throughout CSCI 271: Introduction to Computing &amp; Programming. It serves as a space to practice C++ programming, strengthen my problem-solving skills, and save exercises, assignments, and coding projects completed during the course.
+# CSCI 271 – Introduction to Computing & Programming (C++)
+
+Hi, I'm Momodou Jammeh, a student learning computer science and programming.
+
+This repository is my practice space for **CSCI 271 – Introduction to Computing & Programming (C++)**. I will use it to save my C++ practice exercises, assignments, and other work as I progress through the course.
